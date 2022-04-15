@@ -1,0 +1,20 @@
+Char:			1bytes
+Signed char:		1bytes
+Unsigned char:		1bytes
+Wchar_t:		2bytes
+Short:			2bytes
+Int:			4bytes
+Unsigned int:		4bytes
+Long:			4bytes
+Unsigned long:		4bytes
+Long long:		8bytes
+Unsigned long long:	8bytes
+Float:			4bytes
+Double:			8bytes
+Long double:		16bytes
+Size_t:			8bytes
+Ptrdiff_t:		8bytes
+Void*:			8bytes
+Char*:			8bytes
+Int*:			8bytes
+Unsigned int*:		8bytes
