@@ -10,5 +10,8 @@ void print16(void* p)
 	std::string supbn = upb.to_string();
 	std::string sspbn = spb.to_string();
 
-	std::cout << std::setw(16) << std::setfill('0') << std::hex << up << std::setw(16) << std::setfill(' ') << up << std::setw(16) << std::setfill('0') << supbn << std::setw(16) << std::setfill(' ') << sp << std::endl;
+	std::cout << "HEX: " << std::setw(16) << std::setfill('0') << std::hex << up << std::endl;
+	std::cout << "DEC: " << std::setw(16) << std::setfill(' ') << up << std::endl;
+	std::cout << "BIN: " << std::setw(16) << std::setfill('0') << supbn << std::endl;
+	std::cout << "" <<std::endl;
 }
