@@ -28,9 +28,13 @@ Mfs hexadimal: 54442D18 54442D18 0 54442D18 54442D18
 
 4 Задание
 +=====================+
-Input s1: первая строка
-Input s2: вторая строка
-Input s3: третья строка
-***первая***
-***вторая строка***
-***третья***
+$ g++ ex04.cpp -o check && ./check.exe
+dddddddddddd d
+dddddddddddd d
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+Input s1:
+***dddddddddddd***
+Input s2:
+***ddddddddddd d***
+Input s3:
+***dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd***
